@@ -1,3 +1,2 @@
 print('oi')
-print("Fernando")
 
